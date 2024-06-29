@@ -1,10 +1,25 @@
-<h2 align="left">Hi 👋! I`m KadirInDev<br>🔭 Şu anda **Obfuscator** Projesi üzerinde çalışıyorum.<br>🌱 Şu anda **Assembly** Üzerinde Çalışıyorum.<br>📫 Bana **İnstagram&gmail** Üzerinden Ulaşabilirsiniz.</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=KadirInDev&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h2 align="center">Merhaba 👋! Ben KadirInDev<br>🔭 Şu anda Obfuscator Projesi üzerinde çalışıyorum.<br>🌱 Şu anda Assembly Üzerinde Çalışıyorum.<br>📫 Bana aşşağıdaki Linklerden Ulaşabilirsiniz.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=KadirInDev&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <a href="https://www.instagram.com/kadir.wxf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%C4%B0g&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/Frtyy9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tg&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Ryc3NjMmhxeXhvb3BhdGxwanU4OTdpa2syOTVxcW4wZDUxMXZydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif"  />
 
 ###
 
@@ -30,15 +45,18 @@
 
 ###
 
-<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Ryc3NjMmhxeXhvb3BhdGxwanU4OTdpa2syOTVxcW4wZDUxMXZydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
 ###

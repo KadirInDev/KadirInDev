@@ -19,6 +19,7 @@
 
 ###
 
+<h3 align="center">Bildiğim & Çalıştığım Diller</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -41,6 +42,7 @@
 
 ###
 
+<h3 align="center">Kullandığım Araçlar</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
   <img width="12" />
@@ -53,12 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Ryc3NjMmhxeXhvb3BhdGxwanU4OTdpa2syOTVxcW4wZDUxMXZydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" />
 </div>
 
 ###

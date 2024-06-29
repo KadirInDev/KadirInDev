@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Merhaba 👋! Ben KadirInDev<br>🔭 Şu anda **Obfuscator** Projesi üzerinde çalışıyorum.<br>🌱 Şu anda **Assembly** Üzerinde Çalışıyorum.<br>📫 Bana aşağıdaki Linklerden Ulaşabilirsiniz.</h2>
+<h2 align="center">Merhaba 👋! Ben KadirInDev<br>🔭 Şu anda Obfuscator Projesi üzerinde çalışıyorum.<br>🌱 Şu anda Assembly Üzerinde Çalışıyorum.<br>📫 Bana aşağıdaki Linklerden Ulaşabilirsiniz.</h2>
 
 ###
 
@@ -69,7 +69,7 @@
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirInDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2&custom_title=Kullanma%20%C4%B0statisti%C4%9Fi" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirInDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2&custom_title=Projelerde%20Dil%20Kullanma%20%C4%B0statisti%C4%9Fi" height="150" alt="languages graph" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KadirInDev&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&custom_title=Github%20Aktivite%20Grafi%C4%9Fi&hide_title=false" height="300" alt="activity-graph graph" />
 </div>
